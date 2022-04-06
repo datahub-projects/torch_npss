@@ -1,7 +1,4 @@
 #custom
-*.wav
-*.raw
-*.lab
 *.npy
 /snapshots
 .idea/
